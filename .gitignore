@@ -1,0 +1,28 @@
+
+# Android build files
+.gradle/
+**/.gradle/
+build/
+**/build/
+local.properties
+**/local.properties
+*.iml
+.DS_Store
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Android Studio user files
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/tasks.xml
+
+# Secrets / API keys
+5.Track/gradle.properties
+2.ASL/gradle.properties
+*.keystore
+*.jks
+*.p12
+*.pem

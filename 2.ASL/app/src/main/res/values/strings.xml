@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Who Wrote It?</string>
+    <string name="instructions">Enter a book name, or part of a book name, or just some text from a book to find the full book title and who wrote the book!</string>
+    <string name="button_text">Search Books</string>
+    <string name="input_hint">Enter a Book Title</string>
+    <string name="loading">Loading...</string>
+    <string name="no_results">No Results Found</string>
+    <string name="empty_search">Please enter a search term</string>
+    <string name="network_error">Please check your network connection and try again.</string>
+    <string name="service_error">Book search is unavailable right now. Please try again.</string>
+    <string name="quota_error">Google Books request limit reached. Please try again later or configure an API key.</string>
+</resources>
